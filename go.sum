@@ -1,0 +1,6 @@
+github.com/AntidoteDB/antidote-go-client v0.0.0-20191128183743-4e1746a60ae0 h1:+XNt87UrQSRvLyT6PNRQ4CCaejx7Dnxb6I2TzPRAMis=
+github.com/AntidoteDB/antidote-go-client v0.0.0-20191128183743-4e1746a60ae0/go.mod h1:s3pMlrnioEczv4WIylDPpQLACtnt2QT19dBNZbo/t6g=
+github.com/golang/protobuf v1.3.2 h1:6nsPYzhq5kReh6QImI3k5qWzO4PEbvbIW2cwSfR/6xs=
+github.com/golang/protobuf v1.3.2/go.mod h1:6lQm79b+lXiMfvg/cZm0SGofjICqVBUtrP5yJMmIC1U=
+gopkg.in/fatih/pool.v2 v2.0.0 h1:xIFeWtxifuQJGk/IEPKsTduEKcKvPmhoiVDGpC40nKg=
+gopkg.in/fatih/pool.v2 v2.0.0/go.mod h1:8xVGeu1/2jr2wm5V9SPuMht2H5AEmf5aFMGSQixtjTY=
